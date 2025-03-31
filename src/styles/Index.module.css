@@ -1,0 +1,109 @@
+
+.overview-page {
+    background-color: white;
+    color: rgb(0, 164, 0);
+    font-family: Arial, sans-serif; 
+    min-height: 100vh;
+}
+
+.table-title{
+    text-align: center;
+    justify-content: center;
+    border-top: rgb(0, 164, 0) 2px solid;
+    margin-top: 3em;
+    padding-top: 2em;
+}
+
+.welcome-section {
+    text-align: center;
+    color: rgb(0, 164, 0);
+    width: 60%;
+    margin: auto;
+    padding: 2em;
+}
+
+.welcome-section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+
+.welcome-section p {
+    font-size: 1.1rem;
+    line-height: 1.6;
+}
+
+.featured-destinations {
+    margin: 1rem;
+}
+
+.navigation-links {
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.navigation-links h2 {
+    font-size: 1.8rem;
+    color: rgb(0, 164, 0);
+    margin-bottom: 1rem;
+}
+
+.navigation-links a {
+    color: rgb(0, 164, 0);
+    font-size: 1.2rem;
+    margin: 0 1rem;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.navigation-links a:hover {
+    color: #004d00;
+    text-decoration: underline;
+}
+
+.hero-image {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+}
+
+.hero-image img {
+    max-width: 25%; 
+    height: auto; 
+    border-radius: 10px;
+}
+
+.users-table-section{
+    font-family: Arial, sans-serif;
+    background-color: white;
+    color:rgb(0, 164, 0)
+}
+
+.users-table {
+    width: 80%; /* Set a fixed width or percentage of the container */
+    margin: 20px auto; /* This centers the table */
+    border-collapse: collapse;
+  }
+  
+  .users-table th, .users-table td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #ddd;
+  }
+  
+  .users-table th {
+    background-color: #f4f4f4;
+  }
+  
+  .users-table tbody tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .table-container {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    overflow-x: auto;
+    width: 100%;
+  }
+  
