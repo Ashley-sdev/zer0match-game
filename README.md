@@ -22,4 +22,4 @@ Swipe left or right to determine whether an item belongs in PMC. Earn points and
 
 # Team
 
-The hackathon team includes myself, Morgan, Pierrick, and [Muhle](https://github.com/Ashley-sdev)
+The hackathon team includes Jayden, Morgan, Pierrick, and [Muhle](https://github.com/Ashley-sdev)
